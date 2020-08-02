@@ -12,7 +12,7 @@ public class Main {
         var shirt = new Shirt(ClothingSize.L, 3, 19.99);
         calculateDisplayItems(shirt);
 
-        var hat = new Hat(ClothingSize.M, 2, 29.99);
+        var hat = new Hat(ClothingSize.M, 3, 29.99);
         calculateDisplayItems(hat);
 
     }
